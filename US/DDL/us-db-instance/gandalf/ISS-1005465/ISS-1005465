@@ -1,0 +1,1 @@
+create table mcp_nine(id char(14) PRIMARY KEY);
