@@ -1,0 +1,6 @@
+CREATE TABLE dba_mcp_1(
+    Id char(14),
+    created_at bigint NOT NULL,
+    PRIMARY KEY (Id, created_at),
+    INDEX idx_created_at (created_at)
+);
