@@ -1,0 +1,8 @@
+CREATE TABLE dba_mcp_2 (
+    id bigint NOT NULL,
+    created_at bigint NOT NULL,
+    updated_at bigint DEFAULT NULL,
+    PRIMARY KEY (id, created_at),
+    INDEX idx_created_at (created_at),
+    INDEX idx_updated_at (updated_at)
+) ENGINE=InnoDB;
