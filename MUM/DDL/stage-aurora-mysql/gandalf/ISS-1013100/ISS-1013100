@@ -1,0 +1,6 @@
+CREATE TABLE dba_mcp_7 (
+    id char(14) NOT NULL,
+    created_at bigint NOT NULL,
+    PRIMARY KEY (id, created_at),
+    INDEX idx_created_at (created_at)
+) ENGINE=InnoDB;
