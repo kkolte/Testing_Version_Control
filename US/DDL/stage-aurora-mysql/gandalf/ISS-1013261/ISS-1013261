@@ -1,0 +1,1 @@
+ALTER TABLE `dba_mcp_3` ADD COLUMN `designation` VARCHAR(244) DEFAULT NULL;
