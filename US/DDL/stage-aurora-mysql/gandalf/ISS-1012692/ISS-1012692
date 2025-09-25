@@ -1,0 +1,1 @@
+create table dba_mcp_c(id char(14) PRIMARY KEY);
