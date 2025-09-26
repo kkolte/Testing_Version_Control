@@ -1,0 +1,1 @@
+INSERT INTO dba_mcp_3 (id, created_at, name, description, status, job) VALUES ("2", 1758801896, "Hermoine", "Student in Gryffindor", "active", "Following");
