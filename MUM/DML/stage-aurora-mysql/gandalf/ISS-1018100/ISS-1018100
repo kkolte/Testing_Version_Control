@@ -1,0 +1,1 @@
+UPDATE dba_mcp_3 SET description = "Student in Hufflepuff", updated_at = UNIX_TIMESTAMP() WHERE id = 5;
