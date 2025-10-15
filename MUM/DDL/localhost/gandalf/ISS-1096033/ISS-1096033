@@ -1,0 +1,1 @@
+CREATE TABLE demo_bhavesh_2(id char(14) PRIMARY KEY);
