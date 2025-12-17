@@ -1,0 +1,1 @@
+create table testo (Id char(14) primary key);
