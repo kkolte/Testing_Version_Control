@@ -1,0 +1,1 @@
+create table random (Id char(14) primary key);
