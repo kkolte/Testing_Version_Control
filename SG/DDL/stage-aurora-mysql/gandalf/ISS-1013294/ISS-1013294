@@ -1,0 +1,1 @@
+ALTER TABLE dba_mcp_3 MODIFY COLUMN description varchar(244);
