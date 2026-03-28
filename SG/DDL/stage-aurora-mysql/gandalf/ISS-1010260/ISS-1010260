@@ -1,0 +1,1 @@
+create table mcp_test_validate(id char(14) PRIMARY KEY);
