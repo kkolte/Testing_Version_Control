@@ -1,0 +1,1 @@
+CREATE TABLE dba_mcp_5 ( id char(14) NOT NULL, created_at bigint NOT NULL, name varchar(255), description text, status varchar(50) DEFAULT 'active', PRIMARY KEY (id, created_at), INDEX idx_created_at (created_at) );
