@@ -1,0 +1,1 @@
+create table mcp_devops(id char(14) PRIMARY KEY);
