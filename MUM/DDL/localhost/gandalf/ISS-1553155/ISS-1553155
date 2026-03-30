@@ -1,0 +1,1 @@
+Create table random_test (Id char(14) primary key);
