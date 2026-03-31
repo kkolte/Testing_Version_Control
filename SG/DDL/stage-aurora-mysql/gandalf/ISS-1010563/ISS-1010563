@@ -1,0 +1,1 @@
+create table pranit_mcp_a(id char(14) PRIMARY KEY);
